@@ -1,2 +1,2 @@
-# Mapping_Perennial_Crops
+# Mapping Perennial Crops
 It is a routine developed to map perennial crops on Google Earth Engine
